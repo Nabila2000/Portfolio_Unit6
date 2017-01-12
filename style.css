@@ -1,11 +1,11 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://s-media-cache-ak0.pinimg.com/236x/33/42/e0/3342e0cde998fd30a3522a7473f5c750.jpg");
       background-size: cover;
-      color: white;
+      color: #4c0324;
     }
     .nav {
-      color: white;
+      color: #c499ab;
     }
     h1 {
       font-size: 70px;
@@ -37,4 +37,11 @@
         padding: 5px;
         display: block;
       }
+      }
+    img {
+      height:300px;
+      width:300px;
     }
+    p {
+      color:#280812;
+     }
